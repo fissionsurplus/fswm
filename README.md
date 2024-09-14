@@ -1,2 +1,2 @@
 # fswm
-fswm is an experimental window manager made by me in order to learn more about X11
+fswm is an experimental window manager based on tinywm in order for me to learn more about X11
